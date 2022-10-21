@@ -6,7 +6,7 @@
 .RData
 
 tmp*.r
-
+run_script.r
 # Example code in package build process
 *-Ex.R
 
